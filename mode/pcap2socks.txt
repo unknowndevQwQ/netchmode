@@ -1,0 +1,3 @@
+#pcap2socks UU Preset , 6
+// first non-comment line will append to pcap2socks start argument. --interface should not be in.
+--preset uu
