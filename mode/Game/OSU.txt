@@ -1,2 +1,2 @@
-# OSU
+# osu!
 osu!.exe
