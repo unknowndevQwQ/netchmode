@@ -1,2 +1,2 @@
-# [pcap2socks] [Bypass China] Tencent(10.6.0.1) Preset, 6, 1
+# [pcap2socks] Tencent(10.6.0.1) Preset, 6
 --preset tencent
